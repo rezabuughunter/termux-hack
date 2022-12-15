@@ -1,0 +1,36 @@
+How to install Mix tools for Termux
+
+ 
+$  pkg update
+$  pkg upgrade
+$  pkg install git
+$  pkg install php
+$  pkg install toilet
+$  pkg install python2
+$  pkg install lolcat
+$  pip2 install requests
+$  pip2 install termcolor
+$  git clone https://github.com/mbest99/MIXINGS.git
+$  cd MIXINGS
+$  bash 0ppay.sh
+
+Features:- 
+[ 1] PHISING V1
+    [ 2] PHISING V2
+    [ 3] PHISING V3
+    [ 4] PHISING V4
+    [ 5] PHISING GAME
+    [ 6] Hack fb target
+    [ 7] Hack fb massal
+    [ 8] Hack fb Target+Massal
+    [ 9] Hack FB ans    (#root)
+    [10] Hack Instagram (#root)
+    [11] Hack Twitter   (#root)
+    [12] Hack Gmail     (#root)
+    [13] Fb Info
+    [14] Santet Online
+    [15] Spam IG
+    [16] Spam WA
+    [17] Spam Sms
+    [18] Youtube AutoView (#root)
+reza bug hunter
